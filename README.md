@@ -3,11 +3,11 @@
 
 Here is a line chart showing various outcomes
 for the kickstarter campaigns:
-[line_chart_kickstarters](file:///Users/Miles/Desktop/Analysis%20Projects/Crowdfunding%20Analysis/Line%20Chart%20-%20kickstarter%20Louise.png)
+![line_chart_kickstarters](https://github.com/Kyle2Miles93/Kickstarter_Analysis/blob/main/Line%20Chart%20-%20kickstarter%20Louise.png)
 
 Here is a pivot-chart showing a basic distribution
 of the various outcomes in a different way:
-[stacked_columns_plot](file:///Users/Miles/Desktop/Analysis%20Projects/Crowdfunding%20Analysis/Louise's%20Parent%20Category%20Outcomes%20Pivot%20Chart.png)
+![stacked_columns_plot](https://github.com/Kyle2Miles93/Kickstarter_Analysis/blob/main/Louise's%20Parent%20Category%20Outcomes%20Pivot%20Chart.png)
 
 We have concluded the following about the kickstarter data:
 * The more money a campaign asks for, the greater
