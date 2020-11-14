@@ -2,8 +2,8 @@
 
 ### Overview of Project
 
-We are analyzing data from various kickstarters from around the world in order to get a better idea 
-of when and how someone should start their own kickstarter campaign. We analyze these data by creating different
+I am analyzing data from various kickstarters from around the world in order to get a better idea 
+of when and how someone should start their own kickstarter campaign. I analyze these data by creating different
 visualizations, setting up different parameters to isolate certain data types, and by performing
 various measurements on the dataset.
 
