@@ -14,7 +14,7 @@ various measurements on the dataset.
 I analyzed the data sets by creating pivot charts and different graphs.
 
 Here is a line chart visualizing different outcomes based on when a kickstarter was launched:
-![Theater_Outcomes_vs_Launch](https://github.com/Kyle2Miles93/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/Kyle2Miles93/Kickstarter_Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 Here are the various outcomes displayed in a line chart based on the monetary goals of each kickstarter:
 ![Outcomes_vs_Goals](https://github.com/Kyle2Miles93/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
