@@ -32,11 +32,11 @@ These included:
 
 ### Challenges 
 
-Some challanges I encountered performing the analysis involved interacting with my software, which
-loosely tied into challenges with actually analyzing the data. I experienced the following challanges:
+Some challenges I encountered performing the analysis involved interacting with my software, which
+loosely tied into challenges with actually analyzing the data. I experienced the following:
 
 1) Creating the different pivot charts, I had some trouble creating the right display using
-the various attributes for columns or rows, and creating just the right filters.
+the various attributes for columns or rows, and creating the right filters was also tricky.
 
 2) In order to find out how to convert a number to a percentage, I investigated Youtube. The video explained that I would
 have to format the numbers by customizing the number using the following code: 
